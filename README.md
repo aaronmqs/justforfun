@@ -1,6 +1,6 @@
 # Just For Fun Repository
 
-> This repository contains code developed just for fun and curiosity.
+> This repository contains code developed just for fun and curiosity (the main goal was actually just to learn git by testing).
 
 ![untitled1](https://user-images.githubusercontent.com/68541168/173183192-91abdf11-554a-4f27-9586-6aab85e1f4bb.png)
 
